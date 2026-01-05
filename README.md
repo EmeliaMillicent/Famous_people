@@ -24,3 +24,4 @@ This project (`famous_people.sql`) is a complete **SQL solution** for creating, 
 - Understand how to **model complex relationships** and extract meaningful insights from data.  
 
 This project is a hands-on resource for anyone looking to **strengthen SQL skills** and **gain insights from structured entertainment datasets**.
+The Data  is a synthetic Data
